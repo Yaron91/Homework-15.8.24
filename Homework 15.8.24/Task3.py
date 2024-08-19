@@ -1,0 +1,2 @@
+print("An error won't return due to the fact the change was made on the object in index(0) which is dictionary.")
+print("Since the dictionary inside the tuple is changeable, it is possible to perform the change.  ")

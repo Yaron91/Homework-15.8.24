@@ -1,0 +1,2 @@
+print("The difference between them is that lists are mutable but not tuple. Tuple are also consuming less memory")
+print("You will prefer to use tuple for constant unchangeable data, while you will want to store changable data in lists. ")
